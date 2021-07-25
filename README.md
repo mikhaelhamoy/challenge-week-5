@@ -19,6 +19,7 @@ https://mikhaelhamoy.github.io/challenge-week-5/
 
 ## Screenshots
 
+![Daily Planner](./assets/images/color-coded-daily-planner.png)
 ![Daily Planner](./assets/images/daily-planner.png)
 
 ## Contribution
